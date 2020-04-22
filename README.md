@@ -17,7 +17,7 @@ cd Universal-IFR-Extractor-Linux
 make
 ```
 
-In a folder build creates an executable file ifr extractor.
+In a folder build creates an executable file ifrextractor.
 
 ## Usage
 
